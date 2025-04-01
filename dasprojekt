@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KI-Beauftragte - Wohlfahrtsverband</title>
+</head>
+<body style="background-color: #f4f4f4; font-family: Arial, sans-serif; color: #333; margin: 0; padding: 0;">
+
+    <!-- Header -->
+    <header style="background-color: #e2001A; color: white; text-align: center; padding: 20px;">
+     <img src="https://wawoegh.github.io/test/AWO-KI.png" alt="Logo" style="max-width: 100px; margin-bottom: 10px;">
+        <h1>KI Beauftragte - AWO Landesverband Berlin</h1>
+    </header>
+
+    <!-- Navigation -->
+    <nav style="background-color: white; text-align: center; padding: 10px; border-bottom: 2px solid #ddd;">
+        <a href="#projekt" style="margin: 0 15px; color: #e2001A; text-decoration: none; font-weight: bold;">Das Projekt</a>
+        <a href="https://wawoegh.github.io/test/termine" style="margin: 0 15px; color: #e2001A; text-decoration: none; font-weight: bold;">Termine</a>
+        <a href="#lesestoff" style="margin: 0 15px; color: #e2001A; text-decoration: none; font-weight: bold;">Lesestoff</a>
+        <a href="https://wawoegh.github.io/test/kontakt" target="_self" style="margin: 0 15px; color: #e2001A; text-decoration: none; font-weight: bold;">Kontakt</a>
+    </nav>
+
+    <!-- Hauptinhalt -->
+    <div style="display: flex; flex-direction: row; justify-content: space-between; padding: 20px;">
+        <!-- Sidebar -->
+        <div style="width: 20%; background-color: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+            <h3>Aktuelles</h3>
+            <ul style="list-style-type: none; padding: 0;">
+                <li><a href="#section1" style="color: #e2001A; text-decoration: none;">Wer wir sind.</a></li>
+                <li><a href="#section2" style="color: #e2001A; text-decoration: none;">Was wir tun.</a></li>
+                <li><a href="#section3" style="color: #e2001A; text-decoration: none;">Wie Sie uns finden.</a></li>
+            </ul>
+        </div>
+
+        <!-- Main Content -->
+        <div style="width: 75%; background-color: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+            <h2 id="section1">Wer wir sind.</h2>
+            <p>Unsere KI-Strategie zielt darauf ab, den digitalen Wandel in der Wohlfahrtspflege durch den gezielten Einsatz von Künstlicher Intelligenz zu fördern. Wir möchten durch KI-Technologien mehr Effizienz und bessere Dienstleistungen für die Menschen, die wir betreuen, schaffen.Unsere KI-Strategie zielt darauf ab, den digitalen Wandel in der Wohlfahrtspflege durch den gezielten Einsatz von Künstlicher Intelligenz zu fördern. Wir möchten durch KI-Technologien mehr Effizienz und bessere Dienstleistungen für die Menschen, die wir betreuen, schaffen.Unsere KI-Strategie zielt darauf ab, den digitalen Wandel in der Wohlfahrtspflege durch den gezielten Einsatz von Künstlicher Intelligenz zu fördern. Wir möchten durch KI-Technologien mehr Effizienz und bessere Dienstleistungen für die Menschen, die wir betreuen, schaffen.Unsere KI-Strategie zielt darauf ab, den digitalen Wandel in der Wohlfahrtspflege durch den gezielten Einsatz von Künstlicher Intelligenz zu fördern. Wir möchten durch KI-Technologien mehr Effizienz und bessere Dienstleistungen für die Menschen, die wir betreuen, schaffen.Unsere KI-Strategie zielt darauf ab, den digitalen Wandel in der Wohlfahrtspflege durch den gezielten Einsatz von Künstlicher Intelligenz zu fördern. Wir möchten durch KI-Technologien mehr Effizienz und bessere Dienstleistungen für die Menschen, die wir betreuen, schaffen.Unsere KI-Strategie zielt darauf ab, den digitalen Wandel in der Wohlfahrtspflege durch den gezielten Einsatz von Künstlicher Intelligenz zu fördern. Wir möchten durch KI-Technologien mehr Effizienz und bessere Dienstleistungen für die Menschen, die wir betreuen, schaffen.Unsere KI-Strategie zielt darauf ab, den digitalen Wandel in der Wohlfahrtspflege durch den gezielten Einsatz von Künstlicher Intelligenz zu fördern. Wir möchten durch KI-Technologien mehr Effizienz und bessere Dienstleistungen für die Menschen, die wir betreuen, schaffen.Unsere KI-Strategie zielt darauf ab, den digitalen Wandel in der Wohlfahrtspflege durch den gezielten Einsatz von Künstlicher Intelligenz zu fördern. Wir möchten durch KI-Technologien mehr Effizienz und bessere Dienstleistungen für die Menschen, die wir betreuen, schaffen.Unsere KI-Strategie zielt darauf ab, den digitalen Wandel in der Wohlfahrtspflege durch den gezielten Einsatz von Künstlicher Intelligenz zu fördern. Wir möchten durch KI-Technologien mehr Effizienz und bessere Dienstleistungen für die Menschen, die wir betreuen, schaffen.</p>
+
+            <h2 id="section2">Was wir tun</h2>
+            <p>Derzeit laufen mehrere KI-Projekte, die auf verschiedene Aspekte der Wohlfahrtsarbeit abzielen. Diese Projekte umfassen unter anderem die Automatisierung von Verwaltungsprozessen, die Verbesserung der Klientenbetreuung durch Chatbots und die Nutzung von Predictive Analytics zur Verbesserung der Ressourcenplanung.Derzeit laufen mehrere KI-Projekte, die auf verschiedene Aspekte der Wohlfahrtsarbeit abzielen. Diese Projekte umfassen unter anderem die Automatisierung von Verwaltungsprozessen, die Verbesserung der Klientenbetreuung durch Chatbots und die Nutzung von Predictive Analytics zur Verbesserung der Ressourcenplanung.Derzeit laufen mehrere KI-Projekte, die auf verschiedene Aspekte der Wohlfahrtsarbeit abzielen. Diese Projekte umfassen unter anderem die Automatisierung von Verwaltungsprozessen, die Verbesserung der Klientenbetreuung durch Chatbots und die Nutzung von Predictive Analytics zur Verbesserung der Ressourcenplanung.Derzeit laufen mehrere KI-Projekte, die auf verschiedene Aspekte der Wohlfahrtsarbeit abzielen. Diese Projekte umfassen unter anderem die Automatisierung von Verwaltungsprozessen, die Verbesserung der Klientenbetreuung durch Chatbots und die Nutzung von Predictive Analytics zur Verbesserung der Ressourcenplanung.Derzeit laufen mehrere KI-Projekte, die auf verschiedene Aspekte der Wohlfahrtsarbeit abzielen. Diese Projekte umfassen unter anderem die Automatisierung von Verwaltungsprozessen, die Verbesserung der Klientenbetreuung durch Chatbots und die Nutzung von Predictive Analytics zur Verbesserung der Ressourcenplanung.Derzeit laufen mehrere KI-Projekte, die auf verschiedene Aspekte der Wohlfahrtsarbeit abzielen. Diese Projekte umfassen unter anderem die Automatisierung von Verwaltungsprozessen, die Verbesserung der Klientenbetreuung durch Chatbots und die Nutzung von Predictive Analytics zur Verbesserung der Ressourcenplanung.</p>
+
+            <h2 id="section3">Wie Sie uns finden</h2>
+            <p>Hier finden Sie wichtige Dokumente und Links zu den KI-Projekten sowie weiterführende Informationen zum Thema Künstliche Intelligenz im sozialen Bereich.Hier finden Sie wichtige Dokumente und Links zu den KI-Projekten sowie weiterführende Informationen zum Thema Künstliche Intelligenz im sozialen Bereich.Hier finden Sie wichtige Dokumente und Links zu den KI-Projekten sowie weiterführende Informationen zum Thema Künstliche Intelligenz im sozialen Bereich.Hier finden Sie wichtige Dokumente und Links zu den KI-Projekten sowie weiterführende Informationen zum Thema Künstliche Intelligenz im sozialen Bereich.Hier finden Sie wichtige Dokumente und Links zu den KI-Projekten sowie weiterführende Informationen zum Thema Künstliche Intelligenz im sozialen Bereich.Hier finden Sie wichtige Dokumente und Links zu den KI-Projekten sowie weiterführende Informationen zum Thema Künstliche Intelligenz im sozialen Bereich.Hier finden Sie wichtige Dokumente und Links zu den KI-Projekten sowie weiterführende Informationen zum Thema Künstliche Intelligenz im sozialen Bereich.Hier finden Sie wichtige Dokumente und Links zu den KI-Projekten sowie weiterführende Informationen zum Thema Künstliche Intelligenz im sozialen Bereich.</p>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer style="background-color: #e2001A; color: white; text-align: center; padding: 10px;">
+        <p>&copy; 2025 KI Beauftragte - AWO Landesverband Berlin. Alle Rechte vorbehalten.</p>
+    </footer>
+  
+
+</body>
+</html>
